@@ -2,8 +2,8 @@
 
 - 🧐 CS硕士在读.
 - 👀 迷茫研究僧，不知道想做什么.
-- 🔭 小B站：[https://space.bilibili.com/180380237](https://space.bilibili.com/180380237)
-- 📫 CSDN：[https://blog.csdn.net/MO__YE](https://blog.csdn.net/MO__YE)
+<!-- - 🔭 小B站：[https://space.bilibili.com/180380237](https://space.bilibili.com/180380237)
+- 📫 CSDN：[https://blog.csdn.net/MO__YE](https://blog.csdn.net/MO__YE) -->
 - 🐱‍🏍 Request ID=23082022/9857178
 
 

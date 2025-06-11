@@ -1,10 +1,11 @@
 # 👋欢迎你，这里是Moye!
 
-- 🧐 CS硕士在读.
-- 👀 迷茫研究僧，不知道想做什么.
+- 🧐 CS硕士已毕业.
+- 👀 目前在做量子计算机的测控系统，估计后面会开源.
 <!-- - 🔭 小B站：[https://space.bilibili.com/180380237](https://space.bilibili.com/180380237)
 - 📫 CSDN：[https://blog.csdn.net/MO__YE](https://blog.csdn.net/MO__YE) -->
-- 🐱‍🏍 给个offer吧！求求了！
+- 📫 Blog：[https://blog.kanes.top](https://blog.kanes.top)
+- 🐱‍🏍 你说，生活的意义是什么呢？！
 
 
 

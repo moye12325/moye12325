@@ -2,8 +2,6 @@
 
 - 🧐 CS硕士已毕业.
 - 👀 目前在做量子计算机的测控系统，估计后面会开源.
-<!-- - 🔭 小B站：[https://space.bilibili.com/180380237](https://space.bilibili.com/180380237)
-- 📫 CSDN：[https://blog.csdn.net/MO__YE](https://blog.csdn.net/MO__YE) -->
 - 📫 Blog：[https://blog.kanes.top](https://blog.kanes.top)
 - 🐱‍🏍 你说，生活的意义是什么呢？！
 

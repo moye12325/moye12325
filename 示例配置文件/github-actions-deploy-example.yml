@@ -1,0 +1,43 @@
+# .github/workflows/deploy.yml 示例
+# 将此文件复制到你的博客仓库中，并根据需要调整
+
+name: Deploy Hexo to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+
+      - name: Setup Node.js 🔧
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install Dependencies 📦
+        run: |
+          npm install
+          npm install hexo-cli -g
+
+      - name: Build Hexo 🏗️
+        run: |
+          hexo clean
+          hexo generate
+
+      - name: Deploy to GitHub Pages 🚀
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          cname: yourdomain.com

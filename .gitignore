@@ -1,8 +1,36 @@
 # macOS
 .DS_Store
+*.swp
+*.swo
+*~
 
 # Windows
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
 
 # Node.js
 node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Hexo (如果将来在此仓库中实际搭建 Hexo 博客)
+.deploy_git/
+public/
+db.json
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+.cache/

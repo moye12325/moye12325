@@ -2,7 +2,7 @@
 
 - 🧐 CS硕士已毕业.
 - 👀 目前在做量子计算机的测控系统，估计后面会开源.
-- 📫 Blog：[https://blog.kanes.top](https://blog.kanes.top)
+- 📫 Blog：[https://www.kanes.top](https://www.kanes.top)
 - 🐱‍🏍 你说，生活的意义是什么呢？！
 
 

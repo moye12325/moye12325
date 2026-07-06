@@ -1,12 +1,10 @@
 <div align="center">
 
-# Moye
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=0969DA&center=true&vCenter=true&width=720&lines=%E9%87%8F%E5%AD%90%E6%B5%8B%E6%8E%A7%E7%B3%BB%E7%BB%9F;%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E7%8B%AC%E8%A7%92%E5%85%BD%E4%BC%81%E4%B8%9A;AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91;MailMind;%E5%85%B3%E6%B3%A8%20AI%20%E5%BA%94%E7%94%A8%E6%96%B9%E5%90%91%E6%9C%BA%E4%BC%9A" alt="动态标题" />
-
-**计算机硕士，目前在一家量子计算独角兽企业从事测控系统相关工作。**
-
-我关注工程化、自动化、数据系统和 AI 应用开发，也在持续寻找能把 AI 能力落到真实工作流里的机会。
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg" />
+  <img src="./assets/profile-hero-light.svg" alt="Moye profile card" width="100%" />
+</picture>
 
 [![Blog](https://img.shields.io/badge/Blog-kanes.top-0969DA?style=flat-square&logo=blogger&logoColor=white)](https://www.kanes.top)
 [![GitHub](https://img.shields.io/badge/GitHub-moye12325-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/moye12325)
@@ -58,18 +56,15 @@
 ## 技术栈
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0969DA?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-0969DA?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-0969DA?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/NoSQL-0969DA?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL" />
-  <img src="https://img.shields.io/badge/Linux-57606A?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Shell-57606A?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/Git-57606A?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-57606A?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AI%20Tools-8250DF?style=flat-square&logo=openai&logoColor=white" alt="AI Tools" />
-  <img src="https://img.shields.io/badge/LLM-8250DF?style=flat-square&logo=openai&logoColor=white" alt="LLM" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-8250DF?style=flat-square&logo=markdown&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Markdown-57606A?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,postgres,mongodb,linux,bash,git,docker,md&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,java,postgres,mongodb,linux,bash,git,docker,md&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,java,postgres,mongodb,linux,bash,git,docker,md&theme=light" alt="Python, Java, SQL, NoSQL, Linux, Shell, Git, Docker, Markdown" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai,claude,gemini,cursor" alt="AI tools: OpenAI, Claude, Gemini, Cursor" />
 </p>
 
 ## Now
@@ -87,7 +82,11 @@
 
 ### [MailMind](https://github.com/Vibe-Coding-X/mailmind-ai-email-copilot)
 
-一个正在持续开发的 AI 邮件 Copilot 项目。它关注如何把邮件阅读、理解、整理和行动建议做成真实可用的 AI 应用，而不是停留在一次性的 prompt demo。
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/mailmind-card-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/mailmind-card-light.svg" />
+  <img src="./assets/mailmind-card-light.svg" alt="MailMind project card" width="100%" />
+</picture>
 
 ## 博客
 
@@ -103,17 +102,49 @@
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moye12325&theme=github" alt="GitHub 概览" />
-
-<br />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moye12325&theme=github" alt="仓库语言统计" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moye12325&theme=github" alt="提交语言统计" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moye12325&theme=github" alt="GitHub 统计" />
-
-<br />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=moye12325&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=true" alt="GitHub 活跃图" />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="3">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moye12325&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moye12325&theme=github" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moye12325&theme=github" alt="GitHub 概览" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.333%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moye12325&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moye12325&theme=github" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moye12325&theme=github" alt="仓库语言统计" />
+      </picture>
+    </td>
+    <td width="33.333%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moye12325&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moye12325&theme=github" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moye12325&theme=github" alt="提交语言统计" />
+      </picture>
+    </td>
+    <td width="33.333%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moye12325&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moye12325&theme=github" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moye12325&theme=github" alt="GitHub 统计" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=moye12325&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=moye12325&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=true" />
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moye12325&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=true" alt="GitHub 活跃图" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 </div>
 

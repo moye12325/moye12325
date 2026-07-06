@@ -101,8 +101,7 @@ maybe_later: 开源一些来自工作台的笔记和工具
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moye12325&theme=tokyonight" alt="仓库语言统计" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moye12325&theme=tokyonight" alt="提交语言统计" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moye12325&theme=tokyonight" alt="GitHub 统计" />
-
-<img src="https://streak-stats.demolab.com?user=moye12325&theme=tokyonight&hide_border=true&background=0B1020&ring=00E5FF&fire=22C55E&currStreakLabel=00E5FF" alt="GitHub 连续贡献统计" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moye12325&theme=tokyonight&utcOffset=8" alt="提交时间分布" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=moye12325&bg_color=0B1020&color=C9D1D9&line=00E5FF&point=22C55E&area=true&hide_border=true" alt="GitHub 活跃图" />
 

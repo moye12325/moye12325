@@ -103,17 +103,49 @@
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moye12325&theme=github" alt="GitHub 概览" />
-
-<br />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moye12325&theme=github" alt="仓库语言统计" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moye12325&theme=github" alt="提交语言统计" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moye12325&theme=github" alt="GitHub 统计" />
-
-<br />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=moye12325&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=true" alt="GitHub 活跃图" />
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="3" width="100%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moye12325&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moye12325&theme=github" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moye12325&theme=github" alt="GitHub 概览" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.333%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moye12325&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moye12325&theme=github" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moye12325&theme=github" alt="仓库语言统计" />
+      </picture>
+    </td>
+    <td width="33.333%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moye12325&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moye12325&theme=github" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moye12325&theme=github" alt="提交语言统计" />
+      </picture>
+    </td>
+    <td width="33.333%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moye12325&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moye12325&theme=github" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moye12325&theme=github" alt="GitHub 统计" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" width="100%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=moye12325&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=moye12325&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=true" />
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moye12325&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=true" alt="GitHub 活跃图" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 </div>
 
